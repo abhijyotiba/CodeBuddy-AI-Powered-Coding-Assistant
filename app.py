@@ -18,7 +18,7 @@ apply_custom_style()
 selected_model = show_sidebar_config()
 
 # Title and caption
-st.title("💡 DeepSeek Code Companion")
+st.title("💡 CodeBuddy- AI Powered Coding Assistant")
 st.caption("✨ Your AI Pair Programmer with Debugging Superpowers")
 
 
